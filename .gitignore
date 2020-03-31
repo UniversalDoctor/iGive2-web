@@ -1,0 +1,6 @@
+node_modules
+.DS_Store
+build
+.eslintcache
+.firebase/hosting.YnVpbGQ.cache
+.firebaserc
